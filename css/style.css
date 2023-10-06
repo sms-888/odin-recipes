@@ -1,0 +1,31 @@
+body { font-family: Arial, Helvetica, sans-serif;}
+
+body.main {
+    background-color: lightgray;
+}
+
+body.recipe {
+    background-color: yellow;
+}
+
+.main-heading {
+    font-size: 50px;
+    text-align: center;
+}
+
+.recipe-heading1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.recipe-heading2 {
+    font-size: 30px;
+}
+
+.image {
+    
+}
+
+.para1 {
+    font-size: 20px;
+}
