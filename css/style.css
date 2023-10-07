@@ -29,3 +29,42 @@ body.recipe {
 .para1 {
     font-size: 20px;
 }
+
+.div-main {
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.div-main-h1 {
+    background-color: bisque;
+}
+
+.div-main-list {
+    background-color: beige;
+    padding: 20px 350px;
+}
+
+.div-para1 {
+    background-color: beige;
+}
+
+.div-recipe {
+    background-color: gold;
+    padding: 10px;
+}
+
+.div-recipe-h1 {
+
+}
+
+.div-image {
+    padding-left: 475px;
+}
+
+.div-recipe-h4 {
+    background-color: floralwhite;
+}
+
+.div-recipe-list {
+    background-color: bisque;
+}
